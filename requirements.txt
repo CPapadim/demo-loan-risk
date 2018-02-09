@@ -1,0 +1,4 @@
+pandas==0.19.2
+numpy==1.13.0
+boto==2.46.1
+requests==2.12.4
